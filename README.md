@@ -1,1 +1,1 @@
-# Medical-Image-Analysis-and-Report-Generator
+# Medical-Image-Analysis-and-Report-Summarizer
