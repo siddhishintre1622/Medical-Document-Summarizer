@@ -111,12 +111,7 @@ Ensure you have Python installed on your system.
   3. **Response Generation:** Uses a pre-trained transformer model for medical Q&A.
   4. **Chat History Management:** Maintains a session-based conversation history.
 
-## Contributors
 
-- **Harsh Jain**
-- **Dhananjay Gaikwad**
-- **Abhishek Mali**
-- **Siddhi Shintre**
 
 ## License
 
