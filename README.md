@@ -1,4 +1,4 @@
-# Medical Report Summarizer
+# Medical Document Summarizer
 
 ## Features
 
