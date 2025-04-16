@@ -1,8 +1,4 @@
-# MANTHAN: AI Medical Assistant
-
-## Overview
-
-MANTHAN is an AI-powered medical assistant designed to assist with healthcare diagnostics, report summarization, and intelligent Q&A. This application integrates deep learning and natural language processing (NLP) to enhance efficiency in healthcare and knowledge retrieval.
+# Medical Report Summarizer
 
 ## Features
 
